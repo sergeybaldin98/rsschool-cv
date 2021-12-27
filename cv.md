@@ -7,9 +7,9 @@
 
 ---
 ## Contacts:
-* **E**-mail: _sergey.baldin.98@mail.ru_  
-* **P**hone: _+375(33)62-29-512_
-* **G**ITHUB: _[sergeybaldin98](https://github.com/sergeybaldin98)_
+* **E**-mail:  _sergey.baldin.98@mail.ru_  
+* **P**hone:  _+375(33)62-29-512_
+* **G**ITHUB:  _[sergeybaldin98](https://github.com/sergeybaldin98)_
 ---
 ## About:
 My name is Sergey Baldin. Half a year ago, I graduated as a software engineer. Familiar with the basics of HTML, CSS and OOP. In this course I want to improve my skills and gain more knowledge. My hobbies are reading, watching movies and drawing.
